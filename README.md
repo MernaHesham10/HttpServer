@@ -2,7 +2,7 @@
 - Implement part of the HTTP protocol.
 - Threaded (multiple clients)
 - GET only.
-Error handling
+# Error handling
 - Page Not found
 - Bad Request
 - Redirection
