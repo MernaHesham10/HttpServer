@@ -1,9 +1,9 @@
 # HttpServer
-Implement part of the HTTP protocol.
-Threaded (multiple clients)
-GET only.
+- Implement part of the HTTP protocol.
+- Threaded (multiple clients)
+- GET only.
 Error handling
-Page Not found
-Bad Request
-Redirection
-Internal Server Error
+- Page Not found
+- Bad Request
+- Redirection
+- Internal Server Error
